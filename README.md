@@ -1,10 +1,5 @@
 # Awesome Cursor AI Alternatives [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-<p align="center">
-  <!-- TODO: Add a relevant image/logo if you have one -->
-  <img src="https://github.com/user-attachments/assets/0361143e-1cd8-4c8e-9d77-ff2bfcdaa6b8" alt="Awesome Cursor AI Alternatives" width="200"/> 
-</p>![hq720](https://github.com/user-attachments/assets/bf0de274-f2f2-40a3-9031-86f007cd2728)
-
 A curated list of alternatives to [Cursor](https://cursor.com/), the AI-first code editor designed to accelerate software development using Large Language Models (LLMs).
 
 ## What is Cursor AI?
