@@ -2,14 +2,14 @@
 
 <p align="center">
   <!-- TODO: Add a relevant image/logo if you have one -->
-  <img src="https://media.licdn.com/dms/image/sync/v2/D5627AQFe9IlotGgL5g/articleshare-shrink_800/B56ZTk4on7HEAI-/0/1739006839822?e=2147483647&v=beta&t=dc1KZQr7y7e-KWucgXy2oYlxtH7k2l3o6Ac1L_Gw8HM" alt="Awesome Cursor AI Alternatives" width="200"/> 
+  <img src="https://github.com/user-attachments/assets/e77e65a9-f2e7-48b3-bc5f-048be2609aa3" alt="Awesome Cursor AI Alternatives" width="200"/> 
 </p>
 
-A curated list of alternatives to [Cursor](https://cursor.sh/), the AI-first code editor designed to accelerate software development using Large Language Models (LLMs).
+A curated list of alternatives to [Cursor](https://cursor.com/), the AI-first code editor designed to accelerate software development using Large Language Models (LLMs).
 
 ## What is Cursor AI?
 
-[Cursor](https://cursor.sh/) markets itself as an "AI-first code editor," aiming to build a development environment where Artificial Intelligence is not just an add-on but a core component of the workflow. It's often built as a fork or utilizes architectures similar to VS Code, allowing it to leverage a familiar UI and extension ecosystem while deeply integrating AI capabilities. Key features typically include:
+[Cursor](https://cursor.com/) markets itself as an "AI-first code editor," aiming to build a development environment where Artificial Intelligence is not just an add-on but a core component of the workflow. It's often built as a fork or utilizes architectures similar to VS Code, allowing it to leverage a familiar UI and extension ecosystem while deeply integrating AI capabilities. Key features typically include:
 
 *   **AI Chat:** Conversational interface integrated into the editor for asking coding questions, getting explanations, brainstorming solutions, and debugging help, often with awareness of your codebase.
 *   **AI Code Generation & Editing:** Generating code blocks, completing lines or functions, refactoring existing code, fixing errors, and generating documentation based on natural language prompts or context.
@@ -31,7 +31,19 @@ While Cursor offers a compelling vision for AI-integrated development, users mig
 
 This list explores tools that provide AI-powered coding assistance, ranging from direct VS Code extensions to features integrated into other IDEs and standalone AI development platforms.
 
-**Disclaimer:** The AI tooling landscape is evolving extremely rapidly. Features, pricing, and underlying models change frequently. Always verify details on the official product websites.
+**Disclaimer:** The AI tooling landscape is evolving extremely rapidly. Features, pricing, and underlying models change frequently. Always verify details on the official product websites
+
+> Tired of Postman? Want a decent postman alternative that doesn't suck?
+>
+> [Apidog](https://bit.ly/4iJHYy8) is a powerful all-in-one API development platform that's revolutionizing how developers design, test, and document their APIs.
+>
+> Unlike traditional tools like Postman, Apidog seamlessly integrates API design, automated testing, mock servers, and documentation into a single cohesive workflow. With its intuitive interface, collaborative features, and comprehensive toolset, Apidog eliminates the need to juggle multiple applications during your API development process.
+>
+> Whether you're a solo developer or part of a large team, Apidog streamlines your workflow, increases productivity, and ensures consistent API quality across your projects.
+
+
+[![image/png](https://cdn-uploads.huggingface.co/production/uploads/67c32d41e1a815f578300dc2/TTgwrvdpuuE6ArDctCqzJ.png)](https://bit.ly/4iJHYy8)
+.
 
 ## Contents
 
