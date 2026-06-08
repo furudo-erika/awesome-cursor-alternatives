@@ -2,6 +2,18 @@
 
 A curated list of alternatives to [Cursor](https://cursor.com/), the AI-first code editor designed to accelerate software development using Large Language Models (LLMs).
 
+> Building AI apps with Claude Code, Codex, or your favorite API client?
+>
+> Try **[Blackmagic AI](https://blackmagic.engineering/?utm_source=github&utm_medium=awesome-list&utm_campaign=postman-alternatives&utm_content=cta-text)**, an OpenAI-compatible gateway and cheaper OpenRouter alternative. Use one API key, prepaid credits, and top models while cutting AI model costs by up to 50%.
+
+</br>
+
+[<img width="1490" height="915" alt="Blackmagic AI OpenAI-compatible gateway dashboard" src="https://github.com/user-attachments/assets/af41beba-3fe0-4409-bfd6-03c6617a6ab1" />](https://blackmagic.engineering/?utm_source=github&utm_medium=awesome-list&utm_campaign=postman-alternatives&utm_content=cta-image)
+
+</br>
+
+> **[Compare model pricing](https://blackmagic.engineering/models?utm_source=github&utm_medium=awesome-list&utm_campaign=postman-alternatives&utm_content=cta-pricing)**
+
 ## What is Cursor AI?
 
 [Cursor](https://cursor.com/) markets itself as an "AI-first code editor," aiming to build a development environment where Artificial Intelligence is not just an add-on but a core component of the workflow. It's often built as a fork or utilizes architectures similar to VS Code, allowing it to leverage a familiar UI and extension ecosystem while deeply integrating AI capabilities. Key features typically include:
