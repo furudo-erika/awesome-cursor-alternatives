@@ -278,6 +278,22 @@ Here's a detailed look at notable alternatives:
 
 ---
 
+### 11. OpenPaw (CLI Personal Assistant for Claude Code)
+
+*   **Website:** [https://github.com/daxaur/openpaw](https://github.com/daxaur/openpaw)
+*   **Tagline:** Turn Claude Code into a personal assistant with 38 skills.
+*   **Description:** OpenPaw is an open-source CLI tool that extends Claude Code beyond coding into a full personal assistant. Run `npx pawmode` to add 38 skills covering email, calendar, Spotify, smart home, Slack, GitHub, and more. No daemon, no cloud, MIT licensed.
+*   **Key Features:**
+    *   38 built-in skills for personal productivity.
+    *   Runs via `npx pawmode` with zero configuration.
+    *   No daemon or cloud dependency.
+    *   Open source (MIT).
+*   **Editor Integration:** Terminal / Claude Code CLI.
+*   **Pricing Model:** Free and open source.
+*   **Why it's an Alternative:** Takes a different approach by extending Claude Code with personal assistant capabilities beyond coding, covering productivity tasks like email, calendar, and smart home control.
+
+---
+
 ## How to Choose the Right Alternative
 
 Consider these factors when selecting an alternative to Cursor:
