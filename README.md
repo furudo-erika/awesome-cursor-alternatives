@@ -278,6 +278,27 @@ Here's a detailed look at notable alternatives:
 
 ---
 
+### 11. Nimbalyst (Open-Source Visual AI Workspace)
+
+*   **Website:** [https://nimbalyst.com](https://nimbalyst.com)
+*   **GitHub:** [https://github.com/nimbalyst/nimbalyst](https://github.com/nimbalyst/nimbalyst)
+*   **Tagline:** An open-source visual workspace for building with Claude Code and Codex
+*   **Description:** Nimbalyst takes a different angle on the Cursor problem. Instead of bolting an AI chat onto a single code editor, it treats the workspace itself as the surface for AI work. You run multiple agents in parallel, each in its own session, against tasks and files in your project. The agent layer is heterogeneous and pluggable: Claude Code, Codex, and other providers can run side by side, so you are not locked into one model vendor or one CLI. The editing surface is multi-format. Markdown documents, UI mockups, architecture diagrams, data models, code, and diffs all open as first-class editors in the same workspace, which means an agent can draft a plan as markdown, sketch a flow as a diagram, mock a screen, and then implement the change in code without leaving the app. You see AI's changes in red/green, review, and approve them. It runs as a native desktop app on macOS, Windows, and Linux, with a companion iOS app for reviewing sessions and tasks on the go. 
+*   **Key Features:**
+    *   Multi-agent, multi-session workspace with parallel runs against the same project.
+    *   Heterogeneous, pluggable agent providers (Claude Code, Codex, and others) rather than a single locked-in vendor.
+    *   First-class editors for markdown, mockups, diagrams, data models, diffs, and code in one app. Collaborate with your editors in the same files.
+    *   Red/Green diffs show agent changes. Approve, review.
+    *   Tasks, sessions, and file change tracking built into the workspace, not a side panel.
+    *   Local-first by default, with an optional self-hostable collaboration server for teams.
+    *   Native desktop apps for macOS, Windows, and Linux, plus a companion iOS app.
+    *   Extensible via a documented extension SDK for custom editors and tools.
+*   **Editor Integration:** Standalone native desktop application (it is the editor, not a plugin to another IDE).
+*   **Pricing Model:** Free and open source. Desktop and iOS apps are MIT licensed. The optional collaboration server is AGPL-3.0. No paid tier required to use the core product; users bring their own API keys or model subscriptions for the agents they choose to run.
+*   **Why it's an Alternative:** Open-source. Combines visual file editing with session and task management. 
+
+---
+
 ## How to Choose the Right Alternative
 
 Consider these factors when selecting an alternative to Cursor:
