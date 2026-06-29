@@ -38,6 +38,8 @@ While Cursor offers a compelling vision for AI-integrated development, users mig
 
 This list explores tools that provide AI-powered coding assistance, ranging from direct VS Code extensions to features integrated into other IDEs and standalone AI development platforms.
 
+For a workflow-based comparison across Cursor, Windsurf, Claude Code, Cline, GitHub Copilot, Trae, Aider, Continue, and MCP-enabled setups, see the [AI Coding Tools Guide: Cursor Alternatives](https://ai-coding-tools-guide.vercel.app/cursor-alternatives/).
+
 **Disclaimer:** The AI tooling landscape is evolving extremely rapidly. Features, pricing, and underlying models change frequently. Always verify details on the official product websites
 
 > Tired of Postman? Want a decent postman alternative that doesn't suck?
