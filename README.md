@@ -69,6 +69,7 @@ This list explores tools that provide AI-powered coding assistance, ranging from
         *   [FauxPilot](#fauxpilot)
         *   [Continue (dev)](#continue-dev)
         *   [Ollama + Editor Plugins](#ollama--editor-plugins)
+    *   [11. CodeAlloy (Open-Model Native Autonomous IDE)](#11-codealloy-open-model-native-autonomous-ide)
 *   [How to Choose the Right Alternative](#how-to-choose-the-right-alternative)
 *   [Contributing](#contributing)
 *   [License](#license)
@@ -277,6 +278,29 @@ Here's a detailed look at notable alternatives:
 *   **Why it's an Alternative:** Directly addresses core concerns like privacy, cost, and vendor lock-in by providing open-source and/or local-first solutions, offering a different philosophy compared to cloud-dependent commercial tools.
 
 ---
+
+---
+
+---
+
+### 11. CodeAlloy (Open-Model Native Autonomous IDE)
+
+*   **Website:** [https://heckle-and-code.github.io/codealloy/](https://heckle-and-code.github.io/codealloy/)
+*   **Repository:** [https://github.com/Heckle-and-Code/codealloy](https://github.com/Heckle-and-Code/codealloy)
+*   **Status:** ⚠️ **Early Alpha (`v0.1.0-alpha.1`) — Actively Seeking Testers & Contributors**
+*   **Tagline:** Where developer intent meets open models.
+*   **Description:** CodeAlloy is an early-stage, 100% open-source fork of Code-OSS built from the ground up for developers who want Cursor-like autonomy powered entirely by local or self-hosted open models (Ollama, vLLM, Qwen 2.5 Coder, DeepSeek-Coder). It operates with zero telemetry and features sub-5ms Shadow Git checkpoints for risk-free rollbacks and a 5-tier Autonomy Dial (L0–L4).
+*   **Current State & Honesty Note:** This project is in active **Early Alpha**. While core mechanics (autonomous tool execution, Ollama streaming, Shadow Git rollbacks, Open VSX) are fully functional, expect rough edges, UI quirks, and active iteration. Community feedback, stress-testing on diverse local rigs, and pull requests are warmly welcomed.
+*   **Key Features:**
+    *   **Local-First & Open-Model Native:** First-class native streaming for Ollama and vLLM without third-party proxies, API surcharges, or telemetry.
+    *   **5-Tier Autonomy Dial (L0–L4):** Gives developers strict control over agent authority, from supervised diff approval (L2) to guarded autonomous multi-file edits (L3/L4) with circuit breakers.
+    *   **Shadow Git Checkpoints:** Isolated worktree checkpoints (<5ms) with 1-click turn rollbacks to effortlessly reverse agent hallucination or unwanted edits.
+    *   **Native Inline Diff Review:** Review multi-line agent proposals directly inside the editor with `Tab` (accept) or `Esc` (discard).
+    *   **Open VSX Ecosystem:** Built-in Open VSX marketplace support and drag-and-drop `.vsix` extension sideloading.
+    *   **Pre-Built Alpha Installers:** Cross-platform release builds available for macOS (Apple Silicon & Intel), Linux (`.deb` & `.tar.gz`), and Windows.
+*   **Best For:** Pioneers, privacy-focused developers, and open-source contributors who want to help shape a truly open, vendor-neutral alternative to Cursor.
+
+
 
 ## How to Choose the Right Alternative
 
